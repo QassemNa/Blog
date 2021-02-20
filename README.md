@@ -1,6 +1,5 @@
 ## A Web Application for Posting and Reading Blogs ##
 <p>The web application was made by using Flask</p>
-<br>
 <p>This system allows users to:</p> 
 <ul>
   <li> Write posts and publish them.</li>
